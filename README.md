@@ -1,5 +1,14 @@
 ## Hi there 👋
+I'm Cong.
+I have more than 5 years of experience in developing Front-end Web and Mobile.
+I work with the following technologies and stacks:
+1. Mobile Application Development:
+- I have expertise in Hybrid / Cross-Platform Mobile applications using React Native CLI / EXPO, REDUX, PWA/progressive Web Application (React.JS).
+- Also, I am familiar with Swift/SwiftUI in developing native ios application.
+2. Web Application Development:
+- I am familiar with TypeScript, React.js, React Remix, Vite.js, Next.js,StrapApi and TailwindCss...
 
+Besides, I have knowledge of other skills: FastAPI, GraphQL, Map SDK, Code push, Firebase, Typescript, Fastlane, and WebRTC.Nodejs.
 <!--
 **congduong97/congduong97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
