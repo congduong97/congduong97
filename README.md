@@ -4,7 +4,6 @@ I have more than 5 years of experience in developing Front-end Web and Mobile.
 I work with the following technologies and stacks:
 1. Mobile Application Development:
 - I have expertise in Hybrid / Cross-Platform Mobile applications using React Native CLI / EXPO, REDUX, PWA/progressive Web Application (React.JS).
-- Also, I am familiar with Swift/SwiftUI in developing native ios application.
 2. Web Application Development:
 - I am familiar with TypeScript, React.js, React Remix, Vite.js, Next.js,StrapApi and TailwindCss...
 
